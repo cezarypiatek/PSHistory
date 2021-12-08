@@ -3,7 +3,7 @@ PowerShell lookup for recent locations and commands
 
 ## How to use it
 
-1. Install PSHistory module
+1. Install [PSHistory](https://www.powershellgallery.com/packages/PSHistory/) module from `PSGallery`
 
 ```ps
 Install-Module PSHistory
